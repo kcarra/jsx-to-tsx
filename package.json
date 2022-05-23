@@ -1,0 +1,27 @@
+{
+  "name": "jsx-to-tsx",
+  "version": "1.0.0",
+  "description": "Convert .jsx files to .tsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcarra/jsx-to-tsx.git"
+  },
+  "author": "Kevin Carrabine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcarra/jsx-to-tsx/issues"
+  },
+  "homepage": "https://github.com/kcarra/jsx-to-tsx#readme",
+  "devDependencies": {
+    "add": "^2.0.6",
+    "chalk": "^5.0.1",
+    "enquirer": "^2.3.6",
+    "fast-glob": "^3.2.11",
+    "yarn": "^1.22.18"
+  },
+  "dependencies": {}
+}
